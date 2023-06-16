@@ -1,0 +1,14 @@
+.title {
+    font-weight: 700;
+    color: rgb(194, 64, 64);
+    font-family: 'Helevtica', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+body {
+    background-color: wheat;
+}
+ul, ol {
+    color: black;
+    font-family: Helvetica, sans-serif;
+    border-color: darkgray;
+}
